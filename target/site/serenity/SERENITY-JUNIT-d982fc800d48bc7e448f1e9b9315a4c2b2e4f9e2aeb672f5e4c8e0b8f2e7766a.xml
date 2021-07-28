@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Academia Choucair, employment section" skipped="0" tests="1" time="68.52" timestamp="2021-07-28 05:45:15"><testcase name="Press the button Go to the job portal and make a registration"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+co.com.choucair.certification.EmpleosChoucair.tasks.Jobs.performAs(Jobs.java:19)&#13;
+co.com.choucair.certification.EmpleosChoucair.stepdefinitions.EmpleosChoucairStepDefinitions.cindyWantsToRegisterOnTheChoucairJobPortal(EmpleosChoucairStepDefinitions.java:22)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
